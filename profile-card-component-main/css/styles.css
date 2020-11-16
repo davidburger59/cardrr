@@ -1,0 +1,72 @@
+body{
+background-color: #008b8b;
+margin: 0;
+font-family: 'Kumbh Sans', sans-serif;
+
+}
+.zaklad{
+  background-color: #F8F8FF;
+  text-align: center;
+  margin: 100px auto 100px auto;
+  width: 400px;
+  height: 500px;
+  position:relative;
+  border-radius: 25px;
+
+
+}
+
+.bg-pattern-card-svg{
+  width: 400px;
+    border-radius: 25px 25px 0 0;
+}
+
+.b_profil_fotka-png{
+  position: absolute;
+  width: 150px;
+  left: 125px;
+  top: 80px;
+
+
+}
+
+.davidburger{
+  margin-top: 100px;
+}
+
+table{
+  margin:10px auto 10px auto;
+}
+
+.table{
+  position: absolute;
+}
+
+h3{
+  word-spacing: 50px;
+}
+
+hr{
+  margin-top: 30px;
+}
+
+p{
+  color: #6699cc;
+  word-spacing:50px;
+  margin:0;
+}
+
+
+
+.bg-pattern-top-svg{
+  position: absolute;
+  width: 750px;
+  bottom: 400px;
+}
+
+.bg-pattern-bottom-svg{
+  position:fixed;
+  width: 750px;
+  right: 0;
+  top: 400px;
+}
